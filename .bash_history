@@ -1,0 +1,3 @@
+exit
+bin/hubot
+exit
